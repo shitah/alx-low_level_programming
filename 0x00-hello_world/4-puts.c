@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include < stdio.h >
 
 /**
- * main -first programming
+ * main - Entry point
  *
- * Return: Always 0 (Great)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	puts("\"programming is like building a multilingual puzzle");
