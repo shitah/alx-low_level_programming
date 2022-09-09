@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * Task -Five
- * Description: prints all single digit numbers of
+ * main -Entry point
+ * Description: prints allsingle digit numbers of
  * base 10 from 0
  * Return: Always 0 (success)
  */
@@ -17,4 +17,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
